@@ -1,0 +1,13 @@
+.navbar {
+  background-color: rgba(3, 37, 65, 1);
+}
+.navbar nav {
+  background-color: rgba(3, 37, 65, 1);
+}
+.navbar h3 a,
+.navbar h4 a {
+  background: linear-gradient(to right, #c0fecf 0%, #1ed5a9 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
